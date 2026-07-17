@@ -46,8 +46,8 @@ I design and deploy industrial IoT solutions — from PLCs and embedded firmware
 
 ### 📫 Get in touch
 
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-usuario)
-- Email: seu-email@exemplo.com
+- LinkedIn: [seu-linkedin](https://linkedin.com/in/david-peter-paul-marques-77432a150/)
+- Email: davidoeterpaulmarques@gmail.com
 
 ---
 <sub>⚡ From factory floors to backend systems — building the connective tissue between machines and software.</sub>
