@@ -40,8 +40,8 @@ I design and deploy industrial IoT solutions — from PLCs and embedded firmware
 ### 📈 GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davidmarques164&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidmarques164&layout=compact&theme=default" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-pi-liart-84.vercel.app/api?username=davidmarques164&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-pi-liart-84.vercel.app/api/top-langs/?username=davidmarques164&layout=compact&theme=default" alt="Top languages" height="165"/>
 </p>
 
 ### 📫 Get in touch
