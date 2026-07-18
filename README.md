@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm David 
 
 **Automation & Control Engineer (CREA) → Backend/IoT Developer**
 
